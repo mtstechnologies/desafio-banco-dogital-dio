@@ -1,18 +1,17 @@
-## Getting Started
+## DIO - Trilha Java Básico
+![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=developing&color=GREEN&style=for-the-badge)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## POO - Desafio
 
-## Folder Structure
+Reforcando conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+`Objetivo`: O objetivo deste projeto prático hands-on é reforçar o conhecimento em Programação Orientada a Objetos (POO) em Java, através da implementação de um banco digital.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+`Descrição`: Neste projeto, será disponibilizado no GitHub um projeto de referência que utiliza os conceitos de POO e Java para criar um banco digital. O contexto bancário será explorado para explorar os pilares da orientação a objetos, e assim, os participantes poderão reproduzir a solução e desenvolver sua capacidade de abstração.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+`Requisitos Técnicos`:
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Conhecimentos básicos de Programação Orientada a Objetos em Java;
+- Ambiente de desenvolvimento Java configurado;
+- Capacidade de abstração para reproduzir a solução proposta e implementar melhorias.
